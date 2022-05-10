@@ -1,0 +1,1 @@
+document.body.innerHTML="<iframe src='https://localhost:8000' style='width:100%;height:100vh'></iframe>"
